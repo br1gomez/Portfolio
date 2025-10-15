@@ -31,7 +31,8 @@ const siteProps = {
   instagram: "",
   linkedIn: "brunogomez1",
   medium: "",
-  twitter: "@BrunoGuzm1",
+  twitter: "",
+  X: "@BrunoGuzm1",
   youTube: "",
 };
 

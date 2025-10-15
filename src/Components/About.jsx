@@ -18,13 +18,13 @@ import React from "react";
  */
 import image from "../images/soledad2.png";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Beach where I was happy";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Computer Engineer Student. I have a passion on learning new things and now I'm trying to document my journey through that process.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,10 +33,10 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data analysis",
+  "Raspberry projects",
+  "Linux beginner",
+  "Programming",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm on the road to discover my passions. Currently, I'm exploring various fields in technology, design and content creation.";
 
 const About = () => {
   return (
